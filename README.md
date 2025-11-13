@@ -1,6 +1,6 @@
 # Deep Learning Warm Starts for Trajectory Optimization on the International Space Station
 
-This is the repository that contains source code for the [Astrobee-Learning website](https://astrobee-learning.github.io).
+This is the repository that contains source code for the [Astrobee-Learning website](https://somritabanerjee.github.io/astrobee-learning/).
 
 If you find our work useful please cite:
 ```
